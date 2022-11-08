@@ -1,4 +1,4 @@
-Assessing the suitability of DEMs derived from Sentinel-1 for landslide volume estimation.
+# Assessing the suitability of DEMs derived from Sentinel-1 for landslide volume estimation.
 
 ## Goal
 The overall goal of SliDEM is to assess the potential for determining landslide volumes based on digital elevation models (DEMs) derived from Sentinel-1 SAR data.
